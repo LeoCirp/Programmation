@@ -1,0 +1,2 @@
+SELECT ENAME, SAL, DNAME, LOC, JOB
+FROM emp, dept;

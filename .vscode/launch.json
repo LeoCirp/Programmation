@@ -1,0 +1,342 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "frame",
+            "request": "launch",
+            "mainClass": "frame",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "exercise1",
+            "request": "launch",
+            "mainClass": "lab2.exercise1",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "FrameDemo",
+            "request": "launch",
+            "mainClass": "FrameDemo",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "base",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Principale",
+            "request": "launch",
+            "mainClass": "lab6.Principale",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "programme",
+            "request": "launch",
+            "mainClass": "OrienterObjet.Evaluation1.programme",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "programme",
+            "request": "launch",
+            "mainClass": "Java.OrienterObjet.exercise_1.programme",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "programme",
+            "request": "launch",
+            "mainClass": "Examen1.Exercise2.programme",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "run",
+            "request": "launch",
+            "mainClass": "Examen1.Exercise1.run",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "programme",
+            "request": "launch",
+            "mainClass": "Function.Etudiant.programme",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "programme",
+            "request": "launch",
+            "mainClass": "Function.Automobile.programme",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "partieA",
+            "request": "launch",
+            "mainClass": "Function.Banque.partieA",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "partieB",
+            "request": "launch",
+            "mainClass": "Function.Banque.partieB",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "partie_A",
+            "request": "launch",
+            "mainClass": "Function.Banque.partie_A",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "executable",
+            "request": "launch",
+            "mainClass": "Function.Banque.executable",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "libre",
+            "request": "launch",
+            "mainClass": "libre",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "run",
+            "request": "launch",
+            "mainClass": "Function.Etudiant.run",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "run",
+            "request": "launch",
+            "mainClass": "lab5.Exercise1.run",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Tutoriel",
+            "request": "launch",
+            "mainClass": "Tutoriel",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "controleTemperature",
+            "request": "launch",
+            "mainClass": "lab2.controleTemperature",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch debug",
+            "request": "launch",
+            "mainClass": "Java.debug",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Function",
+            "request": "launch",
+            "mainClass": "Java.Function",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evaluation1",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.Evaluation1",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evaluation3",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.Evaluation3",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch controleTemperature",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.controleTemperature",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch debug",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.debug",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise1",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.exercise1",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise2",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.exercise2",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise3",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.exercise3",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise3d",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.exercise3d",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise3e",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.exercise3e",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise4",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.exercise4",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise5",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.exercise5",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise5b",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab2.exercise5b",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise1_solv",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab3.Exercise1_solv",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exerciseTab",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab3.exerciseTab",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise_progression_1",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab3.exercise_progression_1",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercise_progression_2",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab3.exercise_progression_2",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evaluation1(1)",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab4.Evaluation1",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evaluation2",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab4.Evaluation2",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Evaluation3(1)",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab4.Evaluation3",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise1",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab4.Exercise1",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise2",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab4.Exercise2",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise3",
+            "request": "launch",
+            "mainClass": "Java.Scolaire.lab4.Exercise3",
+            "projectName": "Programmation_f8027d16"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tutoriel",
+            "request": "launch",
+            "mainClass": "Java.Tutoriel",
+            "projectName": "Programmation_f8027d16"
+        }
+    ]
+}

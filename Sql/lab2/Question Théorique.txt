@@ -1,0 +1,5 @@
+1 : Langage permettant structure Querry Language, lanage de requete struturé pour base donné relationel
+2 : ;
+3 : "" ou ''
+4 : Mettre des strings ou utiliser ' ou l'inverse et nommer une clone custom
+5 : Elle n'as pas de valeur

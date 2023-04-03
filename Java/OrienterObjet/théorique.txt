@@ -1,0 +1,15 @@
+
+Association : (Personne 1, compte 1 : compte 2 : etc...)
+agrégation : "Bibliothèque" pourrait avoir une agrégation avec la classe "Livre", car une bibliothèque contient de nombreux livres.
+composition : (Chaise : un dossier, des roues, des ecrous etc... )  // briser une roue, brise le groupe, & sert a rien, car brisser.
+
+revoir la théorique des consignesaAssociation:
+L'association est une relation entre deux classes qui indique qu'elles ont une certaine connexion logique, mais sans qu'il y ait de relation forte entre elles. Les classes associées peuvent exister indépendamment l'une de l'autre, et la fin d'une association n'entraîne pas nécessairement la fin de l'autre classe associée. Par exemple, une classe de "Client" peut être associée à une classe de "Commande", car chaque client peut avoir plusieurs commandes, mais les commandes peuvent également exister sans être associées à un client.
+
+Agrégation: [[Contenant --> Groupe ; Contenu --> Étudiant
+L'agrégation est une relation entre deux classes où une classe peut posséder plusieurs instances d'une autre classe, mais où l'objet possédé peut également exister en dehors de la classe qui le possède. Par exemple, une classe "Département" peut avoir plusieurs instances de la classe "Employé", mais les employés peuvent également exister indépendamment du département dans lequel ils travaillent.
+
+Composition:
+La composition est une relation forte entre deux classes où une classe est considérée comme une partie d'une autre classe et où l'objet contenu ne peut pas exister sans l'objet qui le contient. Par exemple, une classe de "Roue" peut être une partie d'une classe de "Voiture", mais une roue ne peut pas exister sans faire partie d'une voiture.
+
+En résumé, la différence entre association, agrégation et composition réside dans le degré de relation et de dépendance entre les classes. L'association est une relation faible, l'agrégation est une relation moyenne, et la composition est une relation forte.

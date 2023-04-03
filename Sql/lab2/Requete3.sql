@@ -1,0 +1,3 @@
+SELECT *
+FROM emp
+WHERE ENAME LIKE '%S' ;

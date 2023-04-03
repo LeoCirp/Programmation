@@ -1,0 +1,4 @@
+SELECT *
+FROM emp, dept
+WHERE dept.DEPTNO = 10
+OR SAL > 1500;

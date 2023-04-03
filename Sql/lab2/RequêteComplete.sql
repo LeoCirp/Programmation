@@ -1,0 +1,40 @@
+#Requete1
+SELECT empno, deptno
+FROM emp
+WHERE ENAME = "SCOTT";
+#Requete2
+SELECT EMPNO, ENAME, SAL, DEPTNO
+FROM emp
+WHERE DEPTNO = 10
+AND SAL > 1500;
+#Requete 3
+SELECT *
+FROM emp
+WHERE ENAME LIKE '%S' ;
+#Requete 4 
+SELECT ENAME
+FROM emp
+WHERE ENAME LIKE '_____%' ;
+#Requete 5
+SELECT ENAME
+FROM emp
+WHERE ENAME LIKE 'A%' 
+OR ENAME LIKE 'B%';
+#Requete 6
+SELECT *
+FROM emp
+WHERE JOB = "clerk"
+OR JOB = "MANAGER";
+#Requete 7
+SELECT ENAME AS "Nom de l'employé"
+FROM emp
+WHERE COMM IS NULL
+OR COMM = 0;
+SELECT LOC AS "Lieux", DNAME "Département"
+FROM dept ;
+#Requete 8
+SELECT ENAME
+FROM emp
+WHERE COMM IS NOT NULL;
+SELECT LOC, DNAME
+FROM dept ;
